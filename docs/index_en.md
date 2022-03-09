@@ -5,10 +5,10 @@ ref: home
 ---
 
 <ul>
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %}
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
   <li>
-    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
   </li>
 {% endfor %}
 </ul>
