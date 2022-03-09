@@ -166,12 +166,10 @@ Unsere Quellen sind:
 > Ausländerbehörde finden Sie über den [BAMF
 > Navigator](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
 
-14. **Wichtige Ämter\
-    **Am besten wenden Sie sich bei weiteren Fragen immer an das
-    nächstgelegene Amt. Sie können hier danach suchen: [BAMF
-    Behördensuche](https://bamf-navi.bamf.de/de/Themen/Behoerden/).\
-    Für die Region Pforzheim, Enzkreis und Karlsruhe haben wir die
-    Anlaufstellen bereits für Sie ermittelt:
+## Wichtige Ämter
+Am besten wenden Sie sich bei weiteren Fragen immer an das nächstgelegene Amt. Sie können hier danach suchen: [BAMF Behördensuche](https://bamf-navi.bamf.de/de/Themen/Behoerden/).  
+
+Für die Region Pforzheim, Enzkreis und Karlsruhe haben wir die Anlaufstellen bereits für Sie ermittelt:
 
     -   **Enzkreis**: An das Landratsamt Enzkreis, Amt für Migration und
         Flüchtlinge\

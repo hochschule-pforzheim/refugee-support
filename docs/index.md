@@ -114,8 +114,9 @@ Unsere Quellen sind:
 <ul> 
 <li style="list-style-type: none;">Ämter (weiteres siehe unter wichtige Ämter): die nächstgelegene Ausländerbehörde finden Sie über den [BAMF<a href="[url](https://bamf-navi.bamf.de/de/Themen/Behoerden/)">BAMF Navigator</a>. </li> </ul>
 
-**Wichtige Ämter**
-Am besten wenden Sie sich bei weiteren Fragen immer an das  nächstgelegene Amt. Sie können hier danach suchen: [BAMF Behördensuche](https://bamf-navi.bamf.de/de/Themen/Behoerden/). <br><br>
+## Wichtige Ämter
+Am besten wenden Sie sich bei weiteren Fragen immer an das nächstgelegene Amt. Sie können hier danach suchen: [BAMF Behördensuche](https://bamf-navi.bamf.de/de/Themen/Behoerden/).  
+
 Für die Region Pforzheim, Enzkreis und Karlsruhe haben wir die Anlaufstellen bereits für Sie ermittelt:
   - **Enzkreis**: An das Landratsamt Enzkreis, Amt für Migration und Flüchtlinge, Telefon +497231 308-9608, E-Mail <migrationsamt@enzkreis.de>
   - **Stadt Pforzheim**: Ausländerbehörde; Anschrift: Östliche Karl-Friedrich-Str. 2, 75175 Pforzheim \| Telefon +49 7231 39-2504 \| E-Mail <auslaenderwesen@pforzheim.de>
