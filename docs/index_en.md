@@ -42,42 +42,32 @@ Our sources are:
 
   3. **Do I have to quarantine due to Corona?**<br> Ukraine is no longer classified as a high-risk area (as of February 27, 2022). Thus, there is only a general obligation to test before entry, but no longer a quarantine and registration requirement. The federal police will deal pragmatically with the situation of war refugees and displaced persons. Among other things, voluntary tests are offered upon entry at the border. In case of Covid symptoms, medical professionals should be consulted.
 
-  4. **Do I have to apply for asylum?** <br>No! Refugees from Ukraine do not have to go through an asylum procedure. An asylum application is not required. The admission of Ukrainian nationals can take place on the basis of the so-called directive on temporary protection in all EU member states for the reception of war refugees. The right to apply for asylum also remains. To whom does this information apply to?   
-    - Ukrainian nationals who stayed in Ukraine before February 24, 2022
-    - Stateless persons and nationals of third countries other than Ukraine who enjoyed 
-      international protection or equivalent national protection in Ukraine before 24 February 2022
-    - Family members of the first two groups of persons mentioned, even if they are not    
-      Ukrainian nationals
-    - and for stateless persons and nationals of third countries other than Ukraine who 
-      an prove that they were legally resident in Ukraine before 24 February 2022 based on a valid permanent residence permit issued under Ukrainian law and who are unable to return safely and permanently to their country of origin or region of origin.
+  4. **Do I have to apply for asylum?** <br>No! Refugees from Ukraine do not have to go through an asylum procedure. An asylum application is not required. The admission of Ukrainian nationals can take place on the basis of the so-called directive on temporary protection in all EU member states for the reception of war refugees. The right to apply for asylum also remains. To whom does this information apply to?<br><br>
+  <ul>   
+    <li>Ukrainian nationals who stayed in Ukraine before February 24, 2022</li>
+    <li>Stateless persons and nationals of third countries other than Ukraine who enjoyed 
+      international protection or equivalent national protection in Ukraine before 24 February 2022</li>
+    <li>Family members of the first two groups of persons mentioned, even if they are not    
+      Ukrainian nationals</li>
+    <li>and for stateless persons and nationals of third countries other than Ukraine who 
+      an prove that they were legally resident in Ukraine before 24 February 2022 based on a valid permanent residence permit issued under Ukrainian law and who are unable to return safely and permanently to their country of origin or region of origin.</li>
 
 # Living & Accomodation 
 
   5. **Where can I stay?**  
      If you have a valid visa or biometric passport and you can initially pay for your care yourself, the nearest immigration authorities or police stations will usually only record your data. You can then choose your accommodation freely. In addition, many cities also have central contact points that you can contact..
 
-  6.  **What if I do not know where to stay?**
+  6.  **What if I do not know where to stay?** <br>
   Please contact the nearest immigration office or police station if
   -  you do not have a valid visa or biometric passport with which you can prove a legal stay in Germany, 
   - or you have no financial means for your own care.  
   Police is typically also present at all major train stations. They can help in registration and provide help to find accommodation and food. The nearest responsible immigration authority can be found [here](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
 
-# Arbeit & Schule
+# Work & School
 
-7.  **Darf ich in Deutschland arbeiten?\
-    **Mit der EU-Richtlinie zum Massenzustrom erhalten UkrainerInnen
-    einen legalen Aufenthaltsstatus mit welcher lauten Bundesregierung
-    auch automatisch eine Arbeitserlaubnis erteilt werden soll. Den
-    Angaben zufolge sollen sie nach dem Asylbewerberleistungsgesetz
-    behandelt werden. Unklar ist derzeit noch, wie sie in das System der
-    Bundesagentur für Arbeit eingegliedert werden, etwa um Deutsch- oder
-    Integrationskurse als Vorbereitung für eine Arbeitsaufnahme zu
-    besuchen.
+7.  **Can I work in Germany?**<br>With the EU directive on mass influx, Ukrainians receive a legal residence status with which a work permit is to be automatically issued. Currently, it is  unclear how integration into the system of the federal employment agency (e.g., attendance of integration courses in preparation for employment) will be handled.
 
-8.  **Darf mein Kind zur Schule gehen?**\
-    Das ist abhängig vom Bundesland. Die Länder bereiten derzeit eine
-    schnelle und unkomplizierte Aufnahme ukrainischer Kinder in den
-    Schulbetrieb vor.
+8.  **Can my child go to school?**<br>This depends on the federal state. All countries are currently preparing a quick and uncomplicated admission of Ukrainian children to school.
 
 # Medizinische Notfälle
 
