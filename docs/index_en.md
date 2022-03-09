@@ -42,36 +42,25 @@ Our sources are:
 
   3. **Do I have to quarantine due to Corona?**<br> Ukraine is no longer classified as a high-risk area (as of February 27, 2022). Thus, there is only a general obligation to test before entry, but no longer a quarantine and registration requirement. The federal police will deal pragmatically with the situation of war refugees and displaced persons. Among other things, voluntary tests are offered upon entry at the border. In case of Covid symptoms, medical professionals should be consulted.
 
-  4. **Do I have to apply for asylum?** <br>No! Refugees from Ukraine do not have to go through an asylum procedure. An asylum application is not required. The admission of Ukrainian nationals can take place on the basis of the so-called directive on temporary protection in all EU member states for the reception of war refugees. The right to apply for asylum also remains. To whom does this information apply to? 
+  4. **Do I have to apply for asylum?** <br>No! Refugees from Ukraine do not have to go through an asylum procedure. An asylum application is not required. The admission of Ukrainian nationals can take place on the basis of the so-called directive on temporary protection in all EU member states for the reception of war refugees. The right to apply for asylum also remains. To whom does this information apply to?   
+    - Ukrainian nationals who stayed in Ukraine before February 24, 2022
+    - Stateless persons and nationals of third countries other than Ukraine who enjoyed 
+      international protection or equivalent national protection in Ukraine before 24 February 2022
+    - Family members of the first two groups of persons mentioned, even if they are not    
+      Ukrainian nationals
+    - and for stateless persons and nationals of third countries other than Ukraine who 
+      an prove that they were legally resident in Ukraine before 24 February 2022 based on a valid permanent residence permit issued under Ukrainian law and who are unable to return safely and permanently to their country of origin or region of origin.
 
-    -   Ukrainian nationals who stayed in Ukraine before February 24, 2022
-    -   Stateless persons and nationals of third countries other than Ukraine who enjoyed 
-        international protection or equivalent national protection in Ukraine before 24 February 2022
-    -   Family members of the first two groups of persons mentioned, even if they are not    
-        Ukrainian nationals
-    -   and for stateless persons and nationals of third countries other than Ukraine who 
-        an prove that they were legally resident in Ukraine before 24 February 2022 based on a valid permanent residence permit issued under Ukrainian law and who are unable to return safely and permanently to their country of origin or region of origin.
+# Living & Accomodation 
 
-# Wohnen 
+  5. **Where can I stay?**  
+     If you have a valid visa or biometric passport and you can initially pay for your care yourself, the nearest immigration authorities or police stations will usually only record your data. You can then choose your accommodation freely. In addition, many cities also have central contact points that you can contact..
 
-  5. **Wo darf ich wohnen?**  
-     Das können sie selbst entscheiden. Wenn Sie über ein gültiges Visum oder einen biometrischen Pass verfügen und Sie für Ihre Versorgung zunächst selbst aufkommen können, werden von den nächstgelegenen Ausländerbehörden oder Polizeidienststellen in der Regel nur Ihre Daten aufgenommen. Sie können Ihre Unterkunft dann frei wählen. Zudem haben auch viele Städte zentrale Anlaufstellen, an die Sie sich wenden können.
-
-6.  **Wo kann ich wohnen, wenn ich selbst keine Unterkunft finde?\
-    **Wenden Sie sich nach der Einreise bitte an die nächstgelegene
-    Ausländerbehörde oder Polizeidienststelle, wenn
-
-    -   Sie kein gültiges Visum oder keinen biometrischen Pass haben,
-        mit dem Sie einen legalen Aufenthalt in Deutschland nachweisen
-        können,
-
-    -   oder Sie keine finanziellen Mittel für eine eigene Versorgung
-        haben.
-
-> An Bahnhöfen ist die Polizei in der Regel vor Ort präsent. Diese wird
-> Sie zunächst registrieren und bei Bedarf für Ihre Unterbringung und
-> Verpflegung sorgen. Die zuständige Ausländerbehörde finden Sie
-> [hier](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
+  6.  **What if I do not know where to stay?**
+  Please contact the nearest immigration office or police station if
+  -  you do not have a valid visa or biometric passport with which you can prove a legal stay in Germany, 
+  - or you have no financial means for your own care.  
+  Police is typically also present at all major train stations. They can help in registration and provide help to find accommodation and food. The nearest responsible immigration authority can be found [here](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
 
 # Arbeit & Schule
 
