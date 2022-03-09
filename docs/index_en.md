@@ -44,10 +44,13 @@ Our sources are:
 
   4. **Do I have to apply for asylum?** <br>No! Refugees from Ukraine do not have to go through an asylum procedure. An asylum application is not required. The admission of Ukrainian nationals can take place on the basis of the so-called directive on temporary protection in all EU member states for the reception of war refugees. The right to apply for asylum also remains. To whom does this information apply to? 
 
-    - Ukrainian nationals who stayed in Ukraine before February 24, 2022
-    - Stateless persons and nationals of third countries other than Ukraine who enjoyed international protection or equivalent national protection in Ukraine before 24 February 2022
-    - Family members of the first two groups of persons mentioned, even if they are not Ukrainian nationals
-    - and for stateless persons and nationals of third countries other than Ukraine who can prove that they were legally resident in Ukraine before 24 February 2022 based on a valid permanent residence permit issued under Ukrainian law and who are unable to return safely and permanently to their country of origin or region of origin.
+    -   Ukrainian nationals who stayed in Ukraine before February 24, 2022
+    -   Stateless persons and nationals of third countries other than Ukraine who enjoyed 
+        international protection or equivalent national protection in Ukraine before 24 February 2022
+    -   Family members of the first two groups of persons mentioned, even if they are not    
+        Ukrainian nationals
+    -   and for stateless persons and nationals of third countries other than Ukraine who 
+        an prove that they were legally resident in Ukraine before 24 February 2022 based on a valid permanent residence permit issued under Ukrainian law and who are unable to return safely and permanently to their country of origin or region of origin.
 
 # Wohnen 
 
