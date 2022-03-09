@@ -29,12 +29,12 @@ Unsere Quellen sind:
 
 # Einreise
 
-1.  **Welche Dokumente benötige ich für die Einreise?\
-    **Biometrischer Reisepass oder Schengen-Visum für einen Aufenthalt
+1.  **Welche Dokumente benötige ich für die Einreise?**
+    Biometrischer Reisepass oder Schengen-Visum für einen Aufenthalt
     von bis zu 90 Tagen
 
-2.  **Wie lange darf ich bleiben?\
-    **Flüchtenden aus der Ukraine wird auf der Grundlage der
+2.  **Wie lange darf ich bleiben?**
+    Flüchtenden aus der Ukraine wird auf der Grundlage der
     EU-Richtlinie zum sogenannten Massenzustrom (Richtlinie 2001/55/EG)
     gemäß § 24 Aufenthaltsgesetz (AufenthG) vorübergehend Schutz
     gewährt.
