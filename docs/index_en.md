@@ -14,52 +14,40 @@ ref: home
 </ul>
 
 
-# Everthying in English
+# Introduction
 
-Die nachfolgenden Fragen und Antworten wurden von uns nach bestem Wissen
-und Gewissen zusammengefasst. Bei Unsicherheiten stellen Sie am besten
-Rückfragen an die nächstgelegene Ausländerbehörde.
+The following information is intended to facilitate the arrival of Ukrainian refugees in Germany. For this purpose, we have collected some everyday questions and answers.
 
-Unsere Quellen sind:
+The following questions and answers (FAQ) have been summarized by us to the best of our knowledge and belief. In case of uncertainty, it is best to raise questions to the nearest immigration office. 
+
+Our sources are: 
+
 
   - [Ministerium für Justiz und für Migration (Baden-Württemberg,
     de)](https://www.justiz-bw.de/,Lde/Startseite/Auslaender+und+Fluechtlingspolitik/FAQ)
-  - Das Bundesamt für Migration und Flüchtlinge, sowie die dort als PDF
-    ausgebrachte FAQ auf
-    [deutsch](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine.pdf;jsessionid=ED6AE97498A9147C1AF75EF04FF0D880.intranet381?__blob=publicationFile&v=13),
-    [ukrainisch](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine-ukr.pdf?__blob=publicationFile&v=10) und [russisch](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine-ru.pdf?__blob=publicationFile&v=11). Außerdem die Behörden [FAQ](https://bamf-navi.bamf.de/de/FAQs/) (deutsch und englisch).
-  - Die Webseite der Bundesregierung, besonders zum Thema
+  - The Federal Office for Migration and Refugees (BAMF), as well as the FAQ published there is a PDF in
+    [German](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine.pdf;jsessionid=ED6AE97498A9147C1AF75EF04FF0D880.intranet381?__blob=publicationFile&v=13),
+    [Ukrainian](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine-ukr.pdf?__blob=publicationFile&v=10) and [Russian](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine-ru.pdf?__blob=publicationFile&v=11). In addition, the authorities [FAQ](https://bamf-navi.bamf.de/de/FAQs/) available in German and English).
+  - The website of the Federal Government of Germany, especially on the subject of 
     [COVID19](https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-regeln-und-einschrankungen-1734724)
-  - Die Informationsseite der Europäischen Union zum Thema [Flucht](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en).
-  - Die Informationsseite der [Krankenkassen](https://www.krankenkassenzentrale.de/wiki/fluechtlinge).
+  - The information page of the European Union on the subject [Escape](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en).
+  - The information page of the [health insurance companies](https://www.krankenkassenzentrale.de/wiki/fluechtlinge).
 
-# Einreise
+# Entry
 
-  1. **Welche Dokumente benötige ich für die Einreise?** <br>
-      Biometrischer Reisepass oder ein Schengen-Visum.
+  1. **Which documents do I need to enter the country?** <br>
+      Biometric passport or Schengen visa.
 
-  2. **Wie lange darf ich bleiben?**<br> Flüchtenden aus der Ukraine wird auf der Grundlage der
-    EU-Richtlinie zum sogenannten Massenzustrom (Richtlinie 2001/55/EG) gemäß § 24 Aufenthaltsgesetz (AufenthG) vorübergehend Schutz gewährt.
+  2. **How long can I stay?**<br> Refugees from Ukraine are granted temporary protection based on the EU Directive on so-called mass influx (Directive 2001/55/EC) in accordance with § 24 of the Residence Act (AufenthG).
 
-  3. **Muss ich aufgrund von Corona in Quarantäne?**<br> Die Ukraine ist ab dem 27. Februar 2022 nicht mehr als Hochrisikogebiet eingestuft. Damit besteht nach der Coronavirus-Einreiseverordnung nur eine allgemeine Testpflicht vor Einreise, aber kein Quarantäne- und Anmeldeerfordernis mehr. Die Bundespolizei wird bei Kriegsflüchtlingen und Vertrieben pragmatisch mit der Situation umgehen. So werden u.a. freiwillige Tests bei der Einreise an der Grenze angeboten. Bei Covid-Symptomen werden medizinische Fachkräfte konsultiert.
+  3. **Do I have to quarantine due to Corona?**<br> Ukraine is no longer classified as a high-risk area (as of February 27, 2022). Thus, there is only a general obligation to test before entry, but no longer a quarantine and registration requirement. The federal police will deal pragmatically with the situation of war refugees and displaced persons. Among other things, voluntary tests are offered upon entry at the border. In case of Covid symptoms, medical professionals should be consulted.
 
-  4. **Muss ich Asyl beantragen?** <br>Nein. Flüchtlinge aus der Ukraine müssen **kein** Asylverfahren durchlaufen, ein Asylantrag ist nicht erforderlich. Die Aufnahme von ukrainischen Staatsangehörigen kann auf der Grundlage der sog. Richtlinie über den vorübergehenden Schutz in allen EU-Mitgliedstaaten zur Aufnahme von Kriegsflüchtlingen erfolgen. Das Recht dazu, einen Asylantrag zu stellen, bleibt darüber hinaus bestehen. Für wen gilt das?
+  4. **Do I have to apply for asylum?** <br>No! Refugees from Ukraine do not have to go through an asylum procedure. An asylum application is not required. The admission of Ukrainian nationals can take place on the basis of the so-called directive on temporary protection in all EU member states for the reception of war refugees. The right to apply for asylum also remains. To whom does this information apply to? 
 
-    -   Ukrainische Staatsangehörige, die vor dem 24. Februar 2022 ihren
-        Aufenthalt in der Ukraine hatten
-    -   Staatenlose und Staatsangehörige anderer Drittländer als der
-        Ukraine, die vor dem 24. Februar 2022 in der Ukraine
-        internationalen Schutz oder einen gleichwertigen nationalen
-        Schutz genossen haben
-    -   Familienangehörige der ersten beiden genannten Personengruppen,
-        auch wenn sie nicht ukrainische Staatsangehörige sind
-    -   sowie für Staatenlose und Staatsangehörige anderer Drittländer
-        als der Ukraine, die nachweisen können, dass sie sich vor
-        dem 24. Februar 2022 auf der Grundlage eines nach ukrainischem
-        Recht erteilten gültigen unbefristeten Aufenthaltstitels
-        rechtmäßig in der Ukraine aufgehalten haben, und die nicht in
-        der Lage sind, sicher und dauerhaft in ihr Herkunftsland oder
-        ihre Herkunftsregion zurückzukehren.
+    - Ukrainian nationals who stayed in Ukraine before February 24, 2022
+    - Stateless persons and nationals of third countries other than Ukraine who enjoyed international protection or equivalent national protection in Ukraine before 24 February 2022
+    - Family members of the first two groups of persons mentioned, even if they are not Ukrainian nationals
+    - and for stateless persons and nationals of third countries other than Ukraine who can prove that they were legally resident in Ukraine before 24 February 2022 based on a valid permanent residence permit issued under Ukrainian law and who are unable to return safely and permanently to their country of origin or region of origin.
 
 # Wohnen 
 
