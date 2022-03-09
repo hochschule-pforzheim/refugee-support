@@ -1,6 +1,6 @@
 ---
 title: Frequently asked questions and answers for refugees
-lang: en
+lang: 🇬🇧
 ref: home
 ---
 
