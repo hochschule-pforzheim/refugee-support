@@ -51,6 +51,7 @@ Our sources are:
       Ukrainian nationals</li>
     <li>and for stateless persons and nationals of third countries other than Ukraine who 
       an prove that they were legally resident in Ukraine before 24 February 2022 based on a valid permanent residence permit issued under Ukrainian law and who are unable to return safely and permanently to their country of origin or region of origin.</li>
+  </ul>  
 
 # Living & Accomodation 
 
@@ -69,34 +70,25 @@ Our sources are:
 
 8.  **Can my child go to school?**<br>This depends on the federal state. All countries are currently preparing a quick and uncomplicated admission of Ukrainian children to school.
 
-# Medizinische Notfälle
+# Emergencies & Health Care
 
-9.  **Welche Notrufnummern gibt es?**
+9.  **Which emergency numbers are there?**
 
-    -   **Polizei**: 110
+    -   **Police**: 110
 
-    -   **Rettungsdienst** und **Feuerwehr**: 112
+    -   **Ambulance** and **fire brigade**: 112
 
-    -   **Ärztlicher Bereitschaftsdienst**: 116117
+    -   **General medical service**: 116117
 
-10. **Bin ich krankenversichert?\
-    **Folgendes konnten wir durch die Informationsseite der
-    [Krankenkassen](https://www.krankenkassenzentrale.de/wiki/fluechtlinge)
-    in Erfahrung bringen:
+10. **Do I have health insurance?**<br>We were able to find out the following through the information page of the health [insurance companies](https://www.krankenkassenzentrale.de/wiki/fluechtlinge):
 
-    -   Ärztliche Behandlungen erfolgen in den ersten 15 Monaten nach §
-        4 Abs. 1 AsylbLG nur bei akuten und akut behandlungs­bedürftigen
-        Erkrankungen, Schmerzen, Schwangerschaft, Schutzimpfungen und
-        Vorsorgeuntersuchungen. Nach §6 Abs. 1 AsylbLG „können
-        insbesondere Leistungen gewährt werden, wenn sie im Einzelfall
-        zur Sicherung \[...\] der Gesundheit unerläßlich sind...".
+    -   Medical treatment is carried out in the first 15 months according to § 4 Abs. 1
+        AsylbLG only in the case of acute and acute treatment-requiring illnesses, pain, pregnancy, vaccinations and preventive examinations. According to §6.1 AsylbLG, "benefits may be granted in particular if, in individual cases, they are used to secure \[...\] of health are indispensable...".
+    -   Refugees who have been living in Germany for more than 15 months are entitled to 
+        benefits in accordance with the social law (XII), which regulates social assistance.
+    -   If you are unsure, it is best to contact the responsible office (see important 
+        offices)
 
-    -   Flüchtlingen, die seit mehr als 15 Monaten in Deutschland leben,
-        stehen Leistungen analog dem Sozialgesetzbuch XII zu, welches
-        die Sozialhilfe regelt.
-
-    -   Wenn Sie unsicher sind, kontaktieren Sie am besten das
-        zuständige Amt (siehe wichtige Ämter)
 
 # Corona Regelungen 
 
