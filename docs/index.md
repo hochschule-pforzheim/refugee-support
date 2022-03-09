@@ -16,6 +16,8 @@ ref: home
 
 # Allgemeine Information 
 
+Mit dieser Seite wollen wir ukrainischen Flüchtlingen bei Alltagsfragen nach Ihrer Ankunft in Deutschland helfen.
+
 Die nachfolgenden Fragen und Antworten wurden von uns nach bestem Wissen
 und Gewissen zusammengefasst. Bei Unsicherheiten stellen Sie am besten
 Rückfragen an die nächstgelegene Ausländerbehörde.
@@ -114,7 +116,7 @@ Unsere Quellen sind:
 <ul> 
 <li style="list-style-type: none;">Ämter (weiteres siehe unter wichtige Ämter): die nächstgelegene Ausländerbehörde finden Sie über den [BAMF<a href="[url](https://bamf-navi.bamf.de/de/Themen/Behoerden/)">BAMF Navigator</a>. </li> </ul>
 
-## Wichtige Ämter
+# Wichtige Ämter
 Am besten wenden Sie sich bei weiteren Fragen immer an das nächstgelegene Amt. Sie können hier danach suchen: [BAMF Behördensuche](https://bamf-navi.bamf.de/de/Themen/Behoerden/).  
 
 Für die Region Pforzheim, Enzkreis und Karlsruhe haben wir die Anlaufstellen bereits für Sie ermittelt:
