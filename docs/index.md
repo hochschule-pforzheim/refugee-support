@@ -42,25 +42,15 @@ Unsere Quellen sind:
 
 # Einreise
 
-  1.  **Welche Dokumente benötige ich für die Einreise?** <br>
+  1. **Welche Dokumente benötige ich für die Einreise?** <br>
       Biometrischer Reisepass oder ein Schengen-Visum.
 
-  2.  **Wie lange darf ich bleiben?**<br> Flüchtenden aus der Ukraine wird auf der Grundlage der
+  2. **Wie lange darf ich bleiben?**<br> Flüchtenden aus der Ukraine wird auf der Grundlage der
     EU-Richtlinie zum sogenannten Massenzustrom (Richtlinie 2001/55/EG) gemäß § 24 Aufenthaltsgesetz (AufenthG) vorübergehend Schutz gewährt.
 
-3.  **Muss ich aufgrund von Corona in Quarantäne?**
+  3. **Muss ich aufgrund von Corona in Quarantäne?**<br> Die Ukraine ist ab dem 27. Februar 2022 nicht mehr als Hochrisikogebiet eingestuft. Damit besteht nach der Coronavirus-Einreiseverordnung nur eine allgemeine Testpflicht vor Einreise, aber kein Quarantäne- und Anmeldeerfordernis mehr. Die Bundespolizei wird bei Kriegsflüchtlingen und Vertrieben pragmatisch mit der Situation umgehen. So werden u.a. freiwillige Tests bei der Einreise an der Grenze angeboten. Bei Covid-Symptomen werden medizinische Fachkräfte konsultiert.
 
-Die Ukraine ist ab dem 27. Februar 2022 nicht mehr als Hochrisikogebiet
-eingestuft. Damit besteht nach der Coronavirus-Einreiseverordnung nur
-eine allgemeine Testpflicht vor Einreise, aber kein Quarantäne- und
-Anmeldeerfordernis mehr.\
-Die Bundespolizei wird bei Kriegsflüchtlingen und Vertrieben pragmatisch
-mit der Situation umgehen. So werden u.a. freiwillige Tests bei der
-Einreise an der Grenze angeboten. Bei Covid-Symptomen werden
-medizinische Fachkräfte konsultiert.
-
-4.  **Muss ich Asyl beantragen?\
-    **Nein. Flüchtlinge aus der Ukraine müssen [kein]{.underline}
+4.  **Muss ich Asyl beantragen?** <br>Nein. Flüchtlinge aus der Ukraine müssen [kein]
     Asylverfahren durchlaufen, ein Asylantrag ist nicht erforderlich.
     Die Aufnahme von ukrainischen Staatsangehörigen kann auf der
     Grundlage der sog. Richtlinie über den vorübergehenden Schutz in
