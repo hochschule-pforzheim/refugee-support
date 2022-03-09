@@ -1,6 +1,6 @@
 ---
 title: Häufige Fragen und Antworten für Flüchtlinge
-lang: :de:
+lang: 🇩🇪
 ref: home
 ---
 
@@ -9,13 +9,6 @@ ref: home
 {% for post in posts %}
   <li>
     <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-  </li>
-{% endfor %}
-
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
-  <li>
-    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
   </li>
 {% endfor %}
 </ul>
