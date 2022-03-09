@@ -1,6 +1,6 @@
 ---
 title: Häufige Fragen und Antworten für Flüchtlinge
-lang: de
+lang: :de:
 ref: home
 ---
 
@@ -50,76 +50,28 @@ Unsere Quellen sind:
 
   3. **Muss ich aufgrund von Corona in Quarantäne?**<br> Die Ukraine ist ab dem 27. Februar 2022 nicht mehr als Hochrisikogebiet eingestuft. Damit besteht nach der Coronavirus-Einreiseverordnung nur eine allgemeine Testpflicht vor Einreise, aber kein Quarantäne- und Anmeldeerfordernis mehr. Die Bundespolizei wird bei Kriegsflüchtlingen und Vertrieben pragmatisch mit der Situation umgehen. So werden u.a. freiwillige Tests bei der Einreise an der Grenze angeboten. Bei Covid-Symptomen werden medizinische Fachkräfte konsultiert.
 
-4.  **Muss ich Asyl beantragen?** <br>Nein. Flüchtlinge aus der Ukraine müssen [kein]
-    Asylverfahren durchlaufen, ein Asylantrag ist nicht erforderlich.
-    Die Aufnahme von ukrainischen Staatsangehörigen kann auf der
-    Grundlage der sog. Richtlinie über den vorübergehenden Schutz in
-    allen EU-Mitgliedstaaten zur Aufnahme von Kriegsflüchtlingen
-    erfolgen. Das Recht dazu, einen Asylantrag zu stellen, bleibt
-    darüber hinaus bestehen. Für wen gilt das?
+  4. **Muss ich Asyl beantragen?** <br>Nein. Flüchtlinge aus der Ukraine müssen **kein** Asylverfahren durchlaufen, ein Asylantrag ist nicht erforderlich. Die Aufnahme von ukrainischen Staatsangehörigen kann auf der Grundlage der sog. Richtlinie über den vorübergehenden Schutz in allen EU-Mitgliedstaaten zur Aufnahme von Kriegsflüchtlingen erfolgen. Das Recht dazu, einen Asylantrag zu stellen, bleibt darüber hinaus bestehen. Für wen gilt das?
+    - Ukrainische Staatsangehörige, die vor dem 24. Februar 2022 ihren Aufenthalt in der Ukraine hatten
+    - Staatenlose und Staatsangehörige anderer Drittländer als der Ukraine, die vor dem 24. Februar 2022 in der Ukraine internationalen Schutz oder einen gleichwertigen nationalen Schutz genossen haben
+    - Familienangehörige der ersten beiden genannten Personengruppen, auch wenn sie nicht ukrainische Staatsangehörige sind
+    - sowie für Staatenlose und Staatsangehörige anderer Drittländer als der Ukraine, die nachweisen können, dass sie sich vor dem 24. Februar 2022 auf der Grundlage eines nach ukrainischem Recht erteilten gültigen unbefristeten Aufenthaltstitels rechtmäßig in der Ukraine aufgehalten haben, und die nicht in  der Lage sind, sicher und dauerhaft in ihr Herkunftsland oder ihre Herkunftsregion zurückzukehren.
 
-    -   Ukrainische Staatsangehörige, die vor dem 24. Februar 2022 ihren
-        Aufenthalt in der Ukraine hatten
+# Wohnen
 
-    -   Staatenlose und Staatsangehörige anderer Drittländer als der
-        Ukraine, die vor dem 24. Februar 2022 in der Ukraine
-        internationalen Schutz oder einen gleichwertigen nationalen
-        Schutz genossen haben
+  5. **Wo darf ich wohnen?** <br> Das können sie selbst entscheiden. Wenn Sie über ein gültiges Visum oder einen biometrischen Pass verfügen und Sie für Ihre Versorgung zunächst selbst aufkommen können, werden von den nächstgelegenen Ausländerbehörden oder Polizeidienststellen in der Regel nur Ihre Daten aufgenommen. Sie können Ihre Unterkunft dann frei wählen. Zudem haben auch viele Städte zentrale Anlaufstellen, an die Sie sich wenden können.
 
-    -   Familienangehörige der ersten beiden genannten Personengruppen,
-        auch wenn sie nicht ukrainische Staatsangehörige sind
-
-    -   sowie für Staatenlose und Staatsangehörige anderer Drittländer
-        als der Ukraine, die nachweisen können, dass sie sich vor
-        dem 24. Februar 2022 auf der Grundlage eines nach ukrainischem
-        Recht erteilten gültigen unbefristeten Aufenthaltstitels
-        rechtmäßig in der Ukraine aufgehalten haben, und die nicht in
-        der Lage sind, sicher und dauerhaft in ihr Herkunftsland oder
-        ihre Herkunftsregion zurückzukehren.
-
-# Wohnen 
-
-5.  **Wo darf ich wohnen?**
-
-Das können sie selbst entscheiden. Wenn Sie über ein gültiges Visum oder
-einen biometrischen Pass verfügen und Sie für Ihre Versorgung zunächst
-selbst aufkommen können, werden von den nächstgelegenen
-Ausländerbehörden oder Polizeidienststellen in der Regel nur Ihre Daten
-aufgenommen. Sie können Ihre Unterkunft dann frei wählen. Zudem haben
-auch viele Städte zentrale Anlaufstellen, an die Sie sich wenden können.
-
-6.  **Wo kann ich wohnen, wenn ich selbst keine Unterkunft finde?\
-    **Wenden Sie sich nach der Einreise bitte an die nächstgelegene
-    Ausländerbehörde oder Polizeidienststelle, wenn
-
-    -   Sie kein gültiges Visum oder keinen biometrischen Pass haben,
-        mit dem Sie einen legalen Aufenthalt in Deutschland nachweisen
-        können,
-
-    -   oder Sie keine finanziellen Mittel für eine eigene Versorgung
-        haben.
-
-> An Bahnhöfen ist die Polizei in der Regel vor Ort präsent. Diese wird
-> Sie zunächst registrieren und bei Bedarf für Ihre Unterbringung und
-> Verpflegung sorgen. Die zuständige Ausländerbehörde finden Sie
-> [hier](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
+  6. **Wo kann ich wohnen, wenn ich selbst keine Unterkunft finde?**  
+  Wenden Sie sich nach der Einreise bitte an die nächstgelegene Ausländerbehörde oder Polizeidienststelle, wenn   
+      - Sie kein gültiges Visum oder keinen biometrischen Pass haben, mit dem Sie einen legalen Aufenthalt in Deutschland nachweisen können,
+      - oder Sie keine finanziellen Mittel für eine eigene Versorgung haben.  
+<ul> 
+<li style="list-style-type: none;">An Bahnhöfen ist die Polizei in der Regel vor Ort präsent. Diese wird Sie zunächst registrieren und bei Bedarf für Ihre Unterbringung und Verpflegung sorgen. Die zuständige Ausländerbehörde finden Sie <a href="[url](https://bamf-navi.bamf.de/de/Themen/Behoerden/)">hier</a>. </li> </ul>
 
 # Arbeit & Schule
 
-7.  **Darf ich in Deutschland arbeiten?\
-    **Mit der EU-Richtlinie zum Massenzustrom erhalten UkrainerInnen
-    einen legalen Aufenthaltsstatus mit welcher lauten Bundesregierung
-    auch automatisch eine Arbeitserlaubnis erteilt werden soll. Den
-    Angaben zufolge sollen sie nach dem Asylbewerberleistungsgesetz
-    behandelt werden. Unklar ist derzeit noch, wie sie in das System der
-    Bundesagentur für Arbeit eingegliedert werden, etwa um Deutsch- oder
-    Integrationskurse als Vorbereitung für eine Arbeitsaufnahme zu
-    besuchen.
+  7. **Darf ich in Deutschland arbeiten?** <br>Mit der EU-Richtlinie zum Massenzustrom erhalten UkrainerInnen einen legalen Aufenthaltsstatus mit welcher lauten Bundesregierung auch automatisch eine Arbeitserlaubnis erteilt werden soll.<br> Den Angaben zufolge sollen sie nach dem Asylbewerberleistungsgesetz behandelt werden. Unklar ist derzeit noch, wie sie in das System der Bundesagentur für Arbeit eingegliedert werden, etwa um Deutsch- oder Integrationskurse als Vorbereitung für eine Arbeitsaufnahme zu besuchen.
 
-8.  **Darf mein Kind zur Schule gehen?**\
-    Das ist abhängig vom Bundesland. Die Länder bereiten derzeit eine
-    schnelle und unkomplizierte Aufnahme ukrainischer Kinder in den
-    Schulbetrieb vor.
+  8. **Darf mein Kind zur Schule gehen?** <br> Das ist abhängig vom Bundesland. Die Länder bereiten derzeit eine schnelle und unkomplizierte Aufnahme ukrainischer Kinder in den Schulbetrieb vor.
 
 # Medizinische Notfälle
 
@@ -131,10 +83,7 @@ auch viele Städte zentrale Anlaufstellen, an die Sie sich wenden können.
 
     -   **Ärztlicher Bereitschaftsdienst**: 116117
 
-10. **Bin ich krankenversichert?\
-    **Folgendes konnten wir durch die Informationsseite der
-    [Krankenkassen](https://www.krankenkassenzentrale.de/wiki/fluechtlinge)
-    in Erfahrung bringen:
+10. **Bin ich krankenversichert?** <br>Folgendes konnten wir durch die Informationsseite der [Krankenkassen](https://www.krankenkassenzentrale.de/wiki/fluechtlinge) in Erfahrung bringen:
 
     -   Ärztliche Behandlungen erfolgen in den ersten 15 Monaten nach §
         4 Abs. 1 AsylbLG nur bei akuten und akut behandlungs­bedürftigen
@@ -152,7 +101,7 @@ auch viele Städte zentrale Anlaufstellen, an die Sie sich wenden können.
 
 # Corona Regelungen 
 
-11. Welche Corona Regelungen gibt es?\
+  11. **Welche Corona Regelungen gibt es?** <br>
     Die Regelungen werden von den Bund und Ländern bestimmt. Je nach
     Bundesland können unterschiedliche Regelungen bestehen.\
     Einen genauen Überblick der Vorschriften finden Sie auf der
@@ -161,53 +110,24 @@ auch viele Städte zentrale Anlaufstellen, an die Sie sich wenden können.
 
 # Weitere Themen und Hilfeleistungen 
 
-12. Wer hilft mir bei weiteren Fragen?\
-    Verbände, Vereine und Informationsseiten:
+  12. **Wo kann ich Deutsch lernen?** <br> Das Bundesamt für Migration und Flüchtlinge bietet [Integrationskurse](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/integrationskurse-node.html), die auch Sprachkurse beinhalten. <br>Teilweise öffnen auch Hochschulen Ihre Sprachkursangebote für Flüchtlinge. Darüber informieren Sie sich am besten auf den Webseiten der nächstgelegenen Hochschulen.
 
+  13. **Wer kann mir beim Übersetzen helfen?** <br> Am besten sprechen Sie Vereine und (ukrainische) Kulturgemeinden in Ihrer Nähe an oder Sie kontaktieren die nächstgelegene Ausländerbehörde finden Sie über den [BAMF Navigator](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
+
+  14. **Wer hilft mir bei weiteren Fragen?**  <br>Verbände, Vereine und Informationsseiten:
     -   Karlsruhe: <http://ukrainer-in-karlsruhe.org/>
-
     -   Facebook gibt eine Gruppe «Закони Німеччини / ВСЕ для Біженців»
         („Deutsche Gesetze / Alles für Flüchtlinge")
+<ul> 
+<li style="list-style-type: none;">Ämter (weiteres siehe unter wichtige Ämter): die nächstgelegene Ausländerbehörde finden Sie über den [BAMF<a href="[url](https://bamf-navi.bamf.de/de/Themen/Behoerden/)">BAMF Navigator</a>. </li> </ul>
 
-> Ämter (weiteres siehe unter wichtige Ämter): die nächstgelegene
-> Ausländerbehörde finden Sie über den [BAMF
-> Navigator](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
-
-13. **Wo kann ich Deutsch lernen?**\
-    Das Bundesamt für Migration und Flüchtlinge bietet
-    Integrationskurse, die auch Sprachkurse beinhalten:
-    <https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/integrationskurse-node.html>\
-    \
-    Teilweise öffnen auch Hochschulen Ihre Sprachkursangebote für
-    Flüchtlinge. Darüber informieren Sie sich am besten auf den
-    Webseiten der nächstgelegenen Hochschulen.
-
-> **Wer kann mir beim Übersetzen helfen?\
-> **Am besten sprechen Sie Vereine und (ukrainische) Kulturgemeinden in
-> Ihrer Nähe an oder Sie kontaktieren die nächstgelegene
-> Ausländerbehörde finden Sie über den [BAMF
-> Navigator](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
-
-14. **Wichtige Ämter\
-    **Am besten wenden Sie sich bei weiteren Fragen immer an das
-    nächstgelegene Amt. Sie können hier danach suchen: [BAMF
-    Behördensuche](https://bamf-navi.bamf.de/de/Themen/Behoerden/).\
-    Für die Region Pforzheim, Enzkreis und Karlsruhe haben wir die
-    Anlaufstellen bereits für Sie ermittelt:
-
-    -   **Enzkreis**: An das Landratsamt Enzkreis, Amt für Migration und
-        Flüchtlinge\
-        Telefon +497231 308-9608, E-Mail <migrationsamt@enzkreis.de>
-
-    -   **Stadt Pforzheim**: Ausländerbehörde; Anschrift: Östliche
-        Karl-Friedrich-Str. 2, 75175 Pforzheim \| Telefon +49 7231
-        39-2504 \| E-Mail <auslaenderwesen@pforzheim.de>
-
-    -   **Karlsruhe**: E-Mail <ukrainehilfe@karlsruhe.de>
-
-    -   **Bundesamt für Migration und Flüchtlinge**, Referat 52B,
-        Pfizerstr. 1, Gebäude F, 76139 Karlsruhe\| Telefon +49 911 943
-        17962 \| E-Mail: <service@bamf.bund.de>
+**Wichtige Ämter**
+Am besten wenden Sie sich bei weiteren Fragen immer an das  nächstgelegene Amt. Sie können hier danach suchen: [BAMF Behördensuche](https://bamf-navi.bamf.de/de/Themen/Behoerden/). <br><br>
+Für die Region Pforzheim, Enzkreis und Karlsruhe haben wir die Anlaufstellen bereits für Sie ermittelt:
+  - **Enzkreis**: An das Landratsamt Enzkreis, Amt für Migration und Flüchtlinge, Telefon +497231 308-9608, E-Mail <migrationsamt@enzkreis.de>
+  - **Stadt Pforzheim**: Ausländerbehörde; Anschrift: Östliche Karl-Friedrich-Str. 2, 75175 Pforzheim \| Telefon +49 7231 39-2504 \| E-Mail <auslaenderwesen@pforzheim.de>
+  - **Karlsruhe**: E-Mail <ukrainehilfe@karlsruhe.de>
+  - **Bundesamt für Migration und Flüchtlinge**, Referat 52B, Pfizerstr. 1, Gebäude F, 76139 Karlsruhe\| Telefon +49 911 943 17962 \| E-Mail: <service@bamf.bund.de>
 
 > Allgemeine weitere Hinweise: Da Deutschland ist Bundesstaat ist
 > existieren verschiedene Ämter auf Bundes-, Landes- und Kreisebene. Auf
