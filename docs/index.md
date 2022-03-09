@@ -1,3 +1,26 @@
+---
+title: Häufige Fragen und Antworten für Flüchtlinge
+lang: de
+ref: home
+---
+
+<ul>
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </li>
+{% endfor %}
+
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <li>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+
 # Allgemeine Information 
 
 Die nachfolgenden Fragen und Antworten wurden von uns nach bestem Wissen
@@ -6,38 +29,24 @@ Rückfragen an die nächstgelegene Ausländerbehörde.
 
 Unsere Quellen sind:
 
--   [Ministerium für Justiz und für Migration (Baden-Württemberg,
+  - [Ministerium für Justiz und für Migration (Baden-Württemberg,
     de)](https://www.justiz-bw.de/,Lde/Startseite/Auslaender+und+Fluechtlingspolitik/FAQ)
-
--   Das Bundesamt für Migration und Flüchtlinge, sowie die dort als PDF
+  - Das Bundesamt für Migration und Flüchtlinge, sowie die dort als PDF
     ausgebrachte FAQ auf
     [deutsch](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine.pdf;jsessionid=ED6AE97498A9147C1AF75EF04FF0D880.intranet381?__blob=publicationFile&v=13),
-    [ukrainisch](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine-ukr.pdf?__blob=publicationFile&v=10)
-    und
-    [russisch](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine-ru.pdf?__blob=publicationFile&v=11).
-    Außerdem die Behörden [FAQ](https://bamf-navi.bamf.de/de/FAQs/)
-    (deutsch und englisch).
-
--   Die Webseite der Bundesregierung, besonders zum Thema
+    [ukrainisch](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine-ukr.pdf?__blob=publicationFile&v=10) und [russisch](https://www.bamf.de/SharedDocs/Anlagen/DE/AsylFluechtlingsschutz/faq-ukraine-ru.pdf?__blob=publicationFile&v=11). Außerdem die Behörden [FAQ](https://bamf-navi.bamf.de/de/FAQs/) (deutsch und englisch).
+  - Die Webseite der Bundesregierung, besonders zum Thema
     [COVID19](https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-regeln-und-einschrankungen-1734724)
-
--   Dien Informationsseite der Europäischen Union zum Thema
-    [Flucht](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en).
-
--   Die Informationsseite der
-    [Krankenkassen](https://www.krankenkassenzentrale.de/wiki/fluechtlinge).
+  - Die Informationsseite der Europäischen Union zum Thema [Flucht](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en).
+  - Die Informationsseite der [Krankenkassen](https://www.krankenkassenzentrale.de/wiki/fluechtlinge).
 
 # Einreise
 
-1.  **Welche Dokumente benötige ich für die Einreise?**
-    Biometrischer Reisepass oder Schengen-Visum für einen Aufenthalt
-    von bis zu 90 Tagen
+  1.  **Welche Dokumente benötige ich für die Einreise?** <br>
+      Biometrischer Reisepass oder ein Schengen-Visum.
 
-2.  **Wie lange darf ich bleiben?**
-    Flüchtenden aus der Ukraine wird auf der Grundlage der
-    EU-Richtlinie zum sogenannten Massenzustrom (Richtlinie 2001/55/EG)
-    gemäß § 24 Aufenthaltsgesetz (AufenthG) vorübergehend Schutz
-    gewährt.
+  2.  **Wie lange darf ich bleiben?**<br> Flüchtenden aus der Ukraine wird auf der Grundlage der
+    EU-Richtlinie zum sogenannten Massenzustrom (Richtlinie 2001/55/EG) gemäß § 24 Aufenthaltsgesetz (AufenthG) vorübergehend Schutz gewährt.
 
 3.  **Muss ich aufgrund von Corona in Quarantäne?**
 
