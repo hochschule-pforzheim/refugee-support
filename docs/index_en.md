@@ -50,25 +50,16 @@ Unsere Quellen sind:
 
   3. **Muss ich aufgrund von Corona in Quarantäne?**<br> Die Ukraine ist ab dem 27. Februar 2022 nicht mehr als Hochrisikogebiet eingestuft. Damit besteht nach der Coronavirus-Einreiseverordnung nur eine allgemeine Testpflicht vor Einreise, aber kein Quarantäne- und Anmeldeerfordernis mehr. Die Bundespolizei wird bei Kriegsflüchtlingen und Vertrieben pragmatisch mit der Situation umgehen. So werden u.a. freiwillige Tests bei der Einreise an der Grenze angeboten. Bei Covid-Symptomen werden medizinische Fachkräfte konsultiert.
 
-4.  **Muss ich Asyl beantragen?** <br>Nein. Flüchtlinge aus der Ukraine müssen [kein]
-    Asylverfahren durchlaufen, ein Asylantrag ist nicht erforderlich.
-    Die Aufnahme von ukrainischen Staatsangehörigen kann auf der
-    Grundlage der sog. Richtlinie über den vorübergehenden Schutz in
-    allen EU-Mitgliedstaaten zur Aufnahme von Kriegsflüchtlingen
-    erfolgen. Das Recht dazu, einen Asylantrag zu stellen, bleibt
-    darüber hinaus bestehen. Für wen gilt das?
+  4. **Muss ich Asyl beantragen?** <br>Nein. Flüchtlinge aus der Ukraine müssen **kein** Asylverfahren durchlaufen, ein Asylantrag ist nicht erforderlich. Die Aufnahme von ukrainischen Staatsangehörigen kann auf der Grundlage der sog. Richtlinie über den vorübergehenden Schutz in allen EU-Mitgliedstaaten zur Aufnahme von Kriegsflüchtlingen erfolgen. Das Recht dazu, einen Asylantrag zu stellen, bleibt darüber hinaus bestehen. Für wen gilt das?
 
     -   Ukrainische Staatsangehörige, die vor dem 24. Februar 2022 ihren
         Aufenthalt in der Ukraine hatten
-
     -   Staatenlose und Staatsangehörige anderer Drittländer als der
         Ukraine, die vor dem 24. Februar 2022 in der Ukraine
         internationalen Schutz oder einen gleichwertigen nationalen
         Schutz genossen haben
-
     -   Familienangehörige der ersten beiden genannten Personengruppen,
         auch wenn sie nicht ukrainische Staatsangehörige sind
-
     -   sowie für Staatenlose und Staatsangehörige anderer Drittländer
         als der Ukraine, die nachweisen können, dass sie sich vor
         dem 24. Februar 2022 auf der Grundlage eines nach ukrainischem
@@ -79,14 +70,8 @@ Unsere Quellen sind:
 
 # Wohnen 
 
-5.  **Wo darf ich wohnen?**
-
-Das können sie selbst entscheiden. Wenn Sie über ein gültiges Visum oder
-einen biometrischen Pass verfügen und Sie für Ihre Versorgung zunächst
-selbst aufkommen können, werden von den nächstgelegenen
-Ausländerbehörden oder Polizeidienststellen in der Regel nur Ihre Daten
-aufgenommen. Sie können Ihre Unterkunft dann frei wählen. Zudem haben
-auch viele Städte zentrale Anlaufstellen, an die Sie sich wenden können.
+  5. **Wo darf ich wohnen?**  
+     Das können sie selbst entscheiden. Wenn Sie über ein gültiges Visum oder einen biometrischen Pass verfügen und Sie für Ihre Versorgung zunächst selbst aufkommen können, werden von den nächstgelegenen Ausländerbehörden oder Polizeidienststellen in der Regel nur Ihre Daten aufgenommen. Sie können Ihre Unterkunft dann frei wählen. Zudem haben auch viele Städte zentrale Anlaufstellen, an die Sie sich wenden können.
 
 6.  **Wo kann ich wohnen, wenn ich selbst keine Unterkunft finde?\
     **Wenden Sie sich nach der Einreise bitte an die nächstgelegene
