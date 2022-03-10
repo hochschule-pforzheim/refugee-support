@@ -42,7 +42,7 @@ Our sources are:
 
   3. **Do I have to quarantine due to Corona?**<br> Ukraine is no longer classified as a high-risk area (as of February 27, 2022). Thus, there is only a general obligation to test before entry, but no longer a quarantine and registration requirement. The federal police will deal pragmatically with the situation of war refugees and displaced persons. Among other things, voluntary tests are offered upon entry at the border. In case of Covid symptoms, medical professionals should be consulted.
 
-  4. **Do I have to apply for asylum?** <br>No! Refugees from Ukraine do not have to go through an asylum procedure. An asylum application is not required. The admission of Ukrainian nationals can take place on the basis of the so-called directive on temporary protection in all EU member states for the reception of war refugees. The right to apply for asylum also remains. To whom does this information apply to?<br><br>
+  4. **Do I have to apply for asylum?** <br>No! Refugees from Ukraine do not have to go through an asylum procedure. An asylum application is not required. The admission of Ukrainian nationals can take place on the basis of the so-called directive on temporary protection in all EU member states for the reception of war refugees. The right to apply for asylum also remains. To whom does this information apply to?
   <ul>   
     <li>Ukrainian nationals who stayed in Ukraine before February 24, 2022</li>
     <li>Stateless persons and nationals of third countries other than Ukraine who enjoyed 

@@ -46,10 +46,12 @@ Unsere Quellen sind:
   3. **Muss ich aufgrund von Corona in Quarantäne?**<br> Die Ukraine ist ab dem 27. Februar 2022 nicht mehr als Hochrisikogebiet eingestuft. Damit besteht nach der Coronavirus-Einreiseverordnung nur eine allgemeine Testpflicht vor Einreise, aber kein Quarantäne- und Anmeldeerfordernis mehr. Die Bundespolizei wird bei Kriegsflüchtlingen und Vertrieben pragmatisch mit der Situation umgehen. So werden u.a. freiwillige Tests bei der Einreise an der Grenze angeboten. Bei Covid-Symptomen werden medizinische Fachkräfte konsultiert.
 
   4. **Muss ich Asyl beantragen?** <br>Nein. Flüchtlinge aus der Ukraine müssen **kein** Asylverfahren durchlaufen, ein Asylantrag ist nicht erforderlich. Die Aufnahme von ukrainischen Staatsangehörigen kann auf der Grundlage der sog. Richtlinie über den vorübergehenden Schutz in allen EU-Mitgliedstaaten zur Aufnahme von Kriegsflüchtlingen erfolgen. Das Recht dazu, einen Asylantrag zu stellen, bleibt darüber hinaus bestehen. Für wen gilt das?
-    - Ukrainische Staatsangehörige, die vor dem 24. Februar 2022 ihren Aufenthalt in der Ukraine hatten
-    - Staatenlose und Staatsangehörige anderer Drittländer als der Ukraine, die vor dem 24. Februar 2022 in der Ukraine internationalen Schutz oder einen gleichwertigen nationalen Schutz genossen haben
-    - Familienangehörige der ersten beiden genannten Personengruppen, auch wenn sie nicht ukrainische Staatsangehörige sind
-    - sowie für Staatenlose und Staatsangehörige anderer Drittländer als der Ukraine, die nachweisen können, dass sie sich vor dem 24. Februar 2022 auf der Grundlage eines nach ukrainischem Recht erteilten gültigen unbefristeten Aufenthaltstitels rechtmäßig in der Ukraine aufgehalten haben, und die nicht in  der Lage sind, sicher und dauerhaft in ihr Herkunftsland oder ihre Herkunftsregion zurückzukehren.
+  <ul>
+    <li> Ukrainische Staatsangehörige, die vor dem 24. Februar 2022 ihren Aufenthalt in der Ukraine hatten</li>
+    <li> Staatenlose und Staatsangehörige anderer Drittländer als der Ukraine, die vor dem 24. Februar 2022 in der Ukraine internationalen Schutz oder einen gleichwertigen nationalen Schutz genossen haben</li>
+    <li> Familienangehörige der ersten beiden genannten Personengruppen, auch wenn sie nicht ukrainische Staatsangehörige sind</li>
+    <li> sowie für Staatenlose und Staatsangehörige anderer Drittländer als der Ukraine, die nachweisen können, dass sie sich vor dem 24. Februar 2022 auf der Grundlage eines nach ukrainischem Recht erteilten gültigen unbefristeten Aufenthaltstitels rechtmäßig in der Ukraine aufgehalten haben, und die nicht in  der Lage sind, sicher und dauerhaft in ihr Herkunftsland oder ihre Herkunftsregion zurückzukehren.</li>
+  </ul>
 
 # Wohnen
 
@@ -114,7 +116,7 @@ Unsere Quellen sind:
     -   Facebook gibt eine Gruppe «Закони Німеччини / ВСЕ для Біженців»
         („Deutsche Gesetze / Alles für Flüchtlinge")
 <ul> 
-<li style="list-style-type: none;">Ämter (weiteres siehe unter wichtige Ämter): die nächstgelegene Ausländerbehörde finden Sie über den [BAMF<a href="[url](https://bamf-navi.bamf.de/de/Themen/Behoerden/)">BAMF Navigator</a>. </li> </ul>
+<li style="list-style-type: none;">Ämter (weiteres siehe unter wichtige Ämter): die nächstgelegene Ausländerbehörde finden Sie über den <a href="[url](https://bamf-navi.bamf.de/de/Themen/Behoerden/)">BAMF Navigator</a>. </li> </ul>
 
 # Wichtige Ämter
 Am besten wenden Sie sich bei weiteren Fragen immer an das nächstgelegene Amt. Sie können hier danach suchen: [BAMF Behördensuche](https://bamf-navi.bamf.de/de/Themen/Behoerden/).  
