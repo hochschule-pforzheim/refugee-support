@@ -16,7 +16,7 @@ ref: home
 
 # Allgemeine Information 
 
-Mit dieser Seite wollen wir ukrainischen Flüchtlingen bei Alltagsfragen nach Ihrer Ankunft in Deutschland helfen.
+Mit dieser Seite wollen wir ukrainischen Flüchtlingen bei Alltagsfragen nach Ihrer Ankunft in Deutschland helfen.  
 
 Die nachfolgenden Fragen und Antworten wurden von uns nach bestem Wissen
 und Gewissen zusammengefasst. Bei Unsicherheiten stellen Sie am besten
