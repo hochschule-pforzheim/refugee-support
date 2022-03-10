@@ -90,54 +90,41 @@ Our sources are:
         offices)
 
 
-# Corona Regelungen 
+# Covid-19 Regulations 
 
-11. Welche Corona Regelungen gibt es?\
-    Die Regelungen werden von den Bund und Ländern bestimmt. Je nach
-    Bundesland können unterschiedliche Regelungen bestehen.\
-    Einen genauen Überblick der Vorschriften finden Sie auf der
-    [Webseite](https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-regeln-und-einschrankungen-1734724)
-    der Bundesregierung.
+11. **Which COVID-19 regulations are effective?**
+    Regulations are determined by government and federal states. Depending on the federal state, different regulations may exist. A detailed overview of all regulations can be found on the [website]((https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-regeln-und-einschrankungen-1734724)) of German government.
 
-# Weitere Themen und Hilfeleistungen 
+# Further Topics and Assistance 
 
-12. Wer hilft mir bei weiteren Fragen?\
-    Verbände, Vereine und Informationsseiten:
+12. **Who can help me with further questions?** <br>
+    Refugee associations and information pages::
 
     -   Karlsruhe: <http://ukrainer-in-karlsruhe.org/>
 
-    -   Facebook gibt eine Gruppe «Закони Німеччини / ВСЕ для Біженців»
-        („Deutsche Gesetze / Alles für Flüchtlinge")
+    -   Facebook group «Закони Німеччини / ВСЕ для Біженців»
+        ("German Laws / Everything for Refugees"))
 
-> Ämter (weiteres siehe unter wichtige Ämter): die nächstgelegene
-> Ausländerbehörde finden Sie über den [BAMF
+> Federal offices (see also important offices): the nearest immigration
+> office can be found via the [BAMF
 > Navigator](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
 
-13. **Wo kann ich Deutsch lernen?**\
-    Das Bundesamt für Migration und Flüchtlinge bietet
-    Integrationskurse, die auch Sprachkurse beinhalten:
-    <https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/integrationskurse-node.html>\
-    \
-    Teilweise öffnen auch Hochschulen Ihre Sprachkursangebote für
-    Flüchtlinge. Darüber informieren Sie sich am besten auf den
-    Webseiten der nächstgelegenen Hochschulen.
+13. **Where can I learn German**\
+    The federal office for migration and refugees offers [integration courses](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/integrationskurse-node.html) that also include language classes.<br><br>
+    In some cases, universities also offer language courses for refugees. The best way to find out about this is to take a look at university websites.
 
-> **Wer kann mir beim Übersetzen helfen?\
-> **Am besten sprechen Sie Vereine und (ukrainische) Kulturgemeinden in
-> Ihrer Nähe an oder Sie kontaktieren die nächstgelegene
-> Ausländerbehörde finden Sie über den [BAMF
-> Navigator](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
+14. **Who can assist with translation?**
+It is best to address associations and (Ukrainian) cultural communities in your area or contact the nearest immigration office via the [BAMF Navigator](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
 
-## Wichtige Ämter
-Am besten wenden Sie sich bei weiteren Fragen immer an das nächstgelegene Amt. Sie können hier danach suchen: [BAMF Behördensuche](https://bamf-navi.bamf.de/de/Themen/Behoerden/).  
-
-Für die Region Pforzheim, Enzkreis und Karlsruhe haben wir die Anlaufstellen bereits für Sie ermittelt:
+# Important Authorities and administrative Offices 
+It is best to always contact  the nearest office if you have any further questions. You can search for it here: [BAMF Official Search]((https://bamf-navi.bamf.de/de/Themen/Behoerden/). 
+For the region of Pforzheim, Enzkreis and Karlsruhe, we have already determined relevant contact points for you:
 
     -   **Enzkreis**: An das Landratsamt Enzkreis, Amt für Migration und
         Flüchtlinge\
         Telefon +497231 308-9608, E-Mail <migrationsamt@enzkreis.de>
 
-    -   **Stadt Pforzheim**: Ausländerbehörde; Anschrift: Östliche
+    -   **Pforzheim**: Ausländerbehörde; Anschrift: Östliche
         Karl-Friedrich-Str. 2, 75175 Pforzheim \| Telefon +49 7231
         39-2504 \| E-Mail <auslaenderwesen@pforzheim.de>
 
@@ -147,12 +134,8 @@ Für die Region Pforzheim, Enzkreis und Karlsruhe haben wir die Anlaufstellen be
         Pfizerstr. 1, Gebäude F, 76139 Karlsruhe\| Telefon +49 911 943
         17962 \| E-Mail: <service@bamf.bund.de>
 
-> Allgemeine weitere Hinweise: Da Deutschland ist Bundesstaat ist
-> existieren verschiedene Ämter auf Bundes-, Landes- und Kreisebene. Auf
-> Bundesebene ist das Bundesamt für Migration und Flüchtlinge
-> ([BAMF](https://www.bamf.de/DE/Startseite/startseite_node.html))
-> zuständig. Auf Länderebene gibt es ebenfalls Ministerien, in
-> Baden-Württemberg ist dies das [Ministerium der Justiz und für
-> Migration](https://www.justiz-bw.de/,Lde/Startseite) und in ihrer
-> jeweiligen Stadt (oder Kreis) existiert in der Regel ebenfalls eine
-> Behörde.
+> General further information: Since Germany is a federal state, there are various offices 
+> at federal, state and district level.  At the federal level, the Federal Office for 
+> Migration and Refugees (BAMF) is responsible. At state level there are also ministries, in 
+> Baden-Württemberg this is the Ministry of Justice and migration and in your respective 
+> city (or district) there is usually also an authority. 
