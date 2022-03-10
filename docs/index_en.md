@@ -36,7 +36,7 @@ Our sources are:
 # Entry
 
   1. **Which documents do I need to enter the country?** <br>
-      Biometric passport or Schengen visa.
+      Biometric passport or Schengen visa.  
 
   2. **How long can I stay?**<br> Refugees from Ukraine are granted temporary protection based on the EU Directive on so-called mass influx (Directive 2001/55/EC) in accordance with § 24 of the Residence Act (AufenthG).
 
