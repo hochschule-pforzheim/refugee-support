@@ -105,9 +105,9 @@ Our sources are:
     -   Facebook group «Закони Німеччини / ВСЕ для Біженців»
         ("German Laws / Everything for Refugees"))
 
-> Federal offices (see also important offices): the nearest immigration
-> office can be found via the [BAMF
-> Navigator](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
+    > Federal offices (see also important offices): the nearest immigration
+    > office can be found via the [BAMF
+    > Navigator](https://bamf-navi.bamf.de/de/Themen/Behoerden/).
 
 13. **Where can I learn German**\
     The federal office for migration and refugees offers [integration courses](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/integrationskurse-node.html) that also include language classes.<br><br>
@@ -120,19 +120,10 @@ It is best to address associations and (Ukrainian) cultural communities in your 
 It is best to always contact  the nearest office if you have any further questions. You can search for it here: [BAMF Official Search]((https://bamf-navi.bamf.de/de/Themen/Behoerden/). 
 For the region of Pforzheim, Enzkreis and Karlsruhe, we have already determined relevant contact points for you:
 
-    -   **Enzkreis**: An das Landratsamt Enzkreis, Amt für Migration und
-        Flüchtlinge\
-        Telefon +497231 308-9608, E-Mail <migrationsamt@enzkreis.de>
-
-    -   **Pforzheim**: Ausländerbehörde; Anschrift: Östliche
-        Karl-Friedrich-Str. 2, 75175 Pforzheim \| Telefon +49 7231
-        39-2504 \| E-Mail <auslaenderwesen@pforzheim.de>
-
-    -   **Karlsruhe**: E-Mail <ukrainehilfe@karlsruhe.de>
-
-    -   **Bundesamt für Migration und Flüchtlinge**, Referat 52B,
-        Pfizerstr. 1, Gebäude F, 76139 Karlsruhe\| Telefon +49 911 943
-        17962 \| E-Mail: <service@bamf.bund.de>
+  - **Enzkreis**: An das Landratsamt Enzkreis, Amt für Migration und Flüchtlinge, Telefon +497231 308-9608, E-Mail <migrationsamt@enzkreis.de>
+  - **Pforzheim**: Ausländerbehörde; Anschrift: Östliche Karl-Friedrich-Str. 2, 75175 Pforzheim \| Telefon +49 7231 39-2504 \| E-Mail <auslaenderwesen@pforzheim.de>
+  - **Karlsruhe**: E-Mail <ukrainehilfe@karlsruhe.de>
+  - **Bundesamt für Migration und Flüchtlinge**, Referat 52B, Pfizerstr. 1, Gebäude F, 76139 Karlsruhe\| Telefon +49 911 943 17962 \| E-Mail: <service@bamf.bund.de>
 
 > General further information: Since Germany is a federal state, there are various offices 
 > at federal, state and district level.  At the federal level, the Federal Office for 
