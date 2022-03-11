@@ -4,15 +4,7 @@ lang: 🇬🇧
 ref: home-en
 ---
 
-<ul>
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
-  <li>
-    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-  </li>
-{% endfor %}
-</ul>
-
+[🇩🇪](./index.html) | [🇺🇦](./index_ua.html) | [🇷🇺](./index_ru.html) | [🇬🇧](./index_en.html)
 
 # Introduction
 
